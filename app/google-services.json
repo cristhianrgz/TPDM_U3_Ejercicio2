@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "91268895285",
+    "firebase_url": "https://tpdmu3ejercicio2-8c348.firebaseio.com",
+    "project_id": "tpdmu3ejercicio2-8c348",
+    "storage_bucket": "tpdmu3ejercicio2-8c348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91268895285:android:e3425ac6116750f12a177c",
+        "android_client_info": {
+          "package_name": "mx.edu.tpdm_u3_ejercicio2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91268895285-10mmcg4igjn8r9jnj46g7c9as2qqc71b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.tpdm_u3_ejercicio2",
+            "certificate_hash": "7ad2c29bef59b5c63d8ad55fdc94d294f9c38900"
+          }
+        },
+        {
+          "client_id": "91268895285-33sf77np0b560he19947b42kfvgugmht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7rYlLwEbD1QJxESnxKTZav50CglBLXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91268895285-33sf77np0b560he19947b42kfvgugmht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
